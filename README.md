@@ -78,7 +78,7 @@ Download each of these files by clicking on each link. Upload the files to the K
 
 ![APA 7 References Pages](https://github.com/cmcntsh/CreateGPT_PaperTempAPA7ReviewSections/raw/refs/heads/main/files/APA7ReferencesPages.pdf)
 
-![APA 7 Tables Figures Pages](https://github.com/cmcntsh/CreateGPT_PaperTempAPA7ReviewSections/raw/refs/heads/main/files/APA7TablesFiguresPagesPages.pdf)
+![APA 7 Tables Figures Pages](https://github.com/cmcntsh/CreateGPT_PaperTempAPA7ReviewSections/raw/refs/heads/main/files/APA7TablesFiguresPages.pdf)
 
 ![Paper Word Template](https://github.com/cmcntsh/CreateGPT_PaperTempAPA7ReviewSections/raw/refs/heads/main/files/Manuscript%20template%20in%20APA%207th%20Edition.docx)
 
